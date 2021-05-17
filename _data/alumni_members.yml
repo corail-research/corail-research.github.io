@@ -1,0 +1,20 @@
+- name: Bilel Omrani
+  photo: missing-pic.png
+  info: Master student (2020-2021)
+  number_educ: 2
+  education1: "Project: Learning-based heuristics in combinatorial search"
+  education2: Supervised by Gilles Pesant and Quentin Cappart
+
+- name: Félix Chalumeau
+  photo: fchalumeau.jpg
+  info: Research Intern (2020)
+  number_educ: 2
+  education1: Now intern at Imperial College London
+  education2: "Project: constraint programming guided by reinforcement learning"
+
+- name:  Ilan Coulon
+  photo: icoulon.jpg
+  info: Research Intern (2020)
+  number_educ: 2
+  education1: Now intern at Amazon
+  education2: "Project: constraint programming guided by reinforcement learning"

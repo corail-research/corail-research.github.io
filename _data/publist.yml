@@ -1,0 +1,110 @@
+- title: "SeaPearl: A Constraint Programming Solver guided by Reinforcement Learning"
+  image: seapearl.jpg
+  description:  "This paper presents the proof of concept for SeaPearl, 
+  a new constraint programming solver implemented in Julia, 
+  that supports machine learning routines in order to learn branching decisions using reinforcement learning. 
+  Support for modeling the learning component is also provided."
+  authors: F. Chalumeau, I. Coulon, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2102.09193
+    display:  Proceedings of CPAIOR 2021 conference
+  highlight: 1
+  news2:
+
+- title: "Combinatorial optimization and reasoning with graph neural networks"
+  image: GNN-pic.png
+  description:  "Combinatorial optimization is a well-established area in operations research and computer science. 
+  Until recently, its methods have focused on solving problem instances in isolation,
+   ignoring the fact that they often stem from related data distributions in practice. 
+   However, recent years have seen a surge of interest in using machine learning, 
+   especially graph neural networks, as a key building block for combinatorial tasks. 
+   This paper presents a conceptual review of recent key advancements in this emerging field, 
+  aiming at researchers in both optimization and machine learning"
+  authors: Q. Cappart, D. Chételat, E. Khalil, A. Lodi, C. Morris, P. Veličković
+  link:
+    url: https://arxiv.org/abs/2102.09544
+    display:  Survey track of IJCAI 2021 conference
+  highlight: 1
+  news2:
+  
+- title: "Combining reinforcement learning and constraint programming for combinatorial optimization"
+  image: AAAI2021-pic.png
+  description:  "We propose a general and hybrid approach, based on deep reinforcement learning and constraint programming,
+   for solving combinatorial optimization problems. 
+   The core of the approach is based on a dynamic programming formulation, 
+   that acts as a bridge between both techniques."
+  authors: Q. Cappart, T. Moisan, L.-M. Rousseau, I. Prémont-Schwarz, A. Cire
+  link:
+    url: https://arxiv.org/abs/2006.01610
+    display:  Proceedings of AAAI 2021 conference
+  highlight: 1
+  news2:
+
+- title: "E-commerce warehousing: learning a storage policy"
+  image: ewarehouse-2021.png
+  description:  "E-commerce with major online retailers is changing the way people consume. 
+  The goal of increasing delivery speed while remaining cost-effective poses significant 
+  new challenges for supply chains as they race to satisfy the growing and fast-changing demand. 
+  In this paper, we consider a warehouse with a Robotic Mobile Fulfillment System, 
+  in which a fleet of robots stores and retrieves shelves of items and brings them to human pickers."
+  authors: A. Rimélé, P. Grangier, M. Gamache, M. Gendreau, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2101.08828
+    display:  ArXived (2021)
+  highlight: 1
+  news2:
+
+
+- title: "Learning TSP Requires Rethinking Generalization"
+  image: CP2021-pic.png
+  description:  "End-to-end training of neural network solvers for 
+  combinatorial problems such as the Travelling Salesman Problem 
+  is intractable and inefficient beyond a few hundreds of nodes. 
+  While state-of-the-art Machine Learning approaches perform closely to classical solvers for trivially small sizes,
+   they are unable to generalize the learnt policy to larger instances.
+   This paper proposes controlled experiments in the first principled investigation into such zero-shot generalization,
+    revealing that extrapolating beyond training data requires rethinking the entire neural combinatorial optimization
+    pipeline. "
+  authors: C. K. Joshi, Q. Cappart, L.-M. Rousseau, T. Laurent, X. Bresson
+  link:
+    url: https://arxiv.org/abs/2006.07054
+    display:  ArXived (2020)
+  highlight: 1
+  news2:
+
+- title: "Improving Optimization Bounds using Machine Learning: Decision Diagrams meet Deep Reinforcement Learning"
+  image: AAAI2019-pic.png
+  description: "Finding tight bounds on the optimal solution is a critical element of 
+  practical solution methods for discrete optimization problems. 
+  In the last decade, decision diagrams have brought a new perspective on obtaining upper and lower bounds that 
+  can be significantly better than classical bounding mechanisms.
+  We propose a generic approach based on deep reinforcement learning 
+  for obtaining an ordering for tightening the bounds obtained 
+  with relaxed and restricted decision diagrams."
+  authors: Q. Cappart, E. Goutierre, D. Bergman, L.-M. Rousseau
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/3956
+    display: Proceedings of AAAI 2019 conference
+  highlight: 1
+
+- title: "How to Evaluate Machine Learning Approaches for Combinatorial Optimization: Application to the Travelling Salesman Problem"
+  image: howtotsp-pic.png
+  description: ""
+  authors: A. François, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/1909.13121
+    display: ArXived (2019)
+  highlight: 0
+
+- title: "Learning heuristics for the TSP by policy gradient"
+  image: CPAIOR2018-pic.png
+  description: "The aim of the paper is to provide interesting insights on how efficient machine learning algorithms 
+  could be adapted to solve combinatorial optimization problems in conjunction with existing heuristic procedures.
+   More specifically, we extend the neural combinatorial optimization framework to solve the traveling salesman problem (TSP)."
+  authors: M. Deudon, P. Cournut, A. Lacoste, Y. Adulyasak, L.-M. Rousseau
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12
+    display: Proceedings of CPAIOR 2018 conference
+  highlight: 1
+
+

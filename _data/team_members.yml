@@ -1,0 +1,18 @@
+- name: "[Quentin Cappart](https://www.polymtl.ca/expertises/en/cappart-quentin-0)"
+  photo: qcappart.jpg
+  info: Assistant professor at Polytechnique Montréal (Dept. of Computer and Software Engineering)
+  email: quentin.cappart@polymtl.ca
+  number_educ: 3
+  education1: Group founder
+  education2: Member of CIRRELT
+  education3: B.Sc, M.Sc, Ph.D from UCLouvain (Belgium) 
+
+- name: "[Louis-Martin Rousseau](https://www.polymtl.ca/expertises/rousseau-louis-martin)"
+  photo: lmrousseau.jpg
+  info: "Full professor at Polytechnique Montréal 
+  (Dept. of Mathematical and Industrial Engineering)"
+  email: louis-martin.rousseau@polymtl.ca
+  number_educ: 3
+  education1: Group founder
+  education2: Member of CIRRELT
+  education3: Holder of Hanalog chair
