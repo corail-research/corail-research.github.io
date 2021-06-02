@@ -1,9 +1,10 @@
 - name: Bilel Omrani
-  photo: missing-pic.png
+  photo: bomrani.jpeg
   info: Master student (2020-2021)
-  number_educ: 2
-  education1: "Project: Learning-based heuristics in combinatorial search"
-  education2: Supervised by Gilles Pesant and Quentin Cappart
+  number_educ: 3
+  education1: Now research intern at Luxembourg Institute of Socio-Economic Research
+  education2: "Project: learning search heuristics in constraint programming"
+  education3: Supervised by Gilles Pesant and Quentin Cappart
 
 - name: Félix Chalumeau
   photo: fchalumeau.jpg
