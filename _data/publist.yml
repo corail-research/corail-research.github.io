@@ -1,5 +1,6 @@
+
 - title: "On Causal Inference for Data-free Structured Pruning"
-  image: ""
+  image: 
   description:  "This paper proposes an approach based on causal inference to facilitate structured pruning of neural networks"
   authors: M. Ferianc, A. Sankaran, O. Mastropietro, E. Saboori, Q. Cappart
   link:
@@ -20,7 +21,7 @@ authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
   news2:
 
 - title: "Improving branch-and-bound using decision diagrams and reinforcement learning"
-  image: ""
+  image: 
   description:  "This paper presents a branch-and-bound algorithm based both on decision diagrams and 
   reinforcement learning"
   authors: A. Parjadis, Q. Cappart, L.-M. Rousseau, D. Bergman
@@ -29,7 +30,6 @@ authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
     display:  Proceedings of CPAIOR 2021 conference
   highlight: 0
   news2:
-
 
 - title: "SeaPearl: A Constraint Programming Solver guided by Reinforcement Learning"
   image: seapearl.jpg
