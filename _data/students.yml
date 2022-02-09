@@ -9,6 +9,30 @@
 #  education4:
 
 
+- name: Maryam Abazari
+  photo: mabazari.jpg
+  info: Ph.D. Student (started in 2022)
+  email: maryam.abazari@polymtl.ca
+  number_educ: 2
+  education1: "Project: hybrid artificial intelligence in industrial applications"
+  education2: Supervised by Quentin Cappart
+
+- name: Paulo Correia
+  photo: pcorreia.jpg
+  info: Ph.D. Student (started in 2022)
+  email: paulo-victor.queiroz-correia@polymtl.ca
+  number_educ: 2
+  education1: "Project: machine learning for predicting failures in networking equipments"
+  education2: Supervised by Quentin Cappart
+
+- name: Julien Carayol
+  photo: jcarayol.jpg
+  info: Ph.D. Student (started in 2019)
+  email: julien.carayol@polymtl.ca
+  number_educ: 2
+  education1: "Project: machine learning for preventing cyberattacks"
+  education2: Supervised by Gabriela Nicolescu and Quentin Cappart
+
 - name: Isaac Rudich
   photo: irudich.jpg
   info: Ph.D. Student (started in 2019)
@@ -25,7 +49,6 @@
   education1: "Project: learning in branch-and-bound algorithms"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
-
 - name: Peyman Kafaei
   photo: pkafaei.jpg
   info: Ph.D. Student (started in 2017)
@@ -34,21 +57,21 @@
   education1: "Project: Reinforcement learning for solving industrial problems"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
-- name: Adrien Rimélé
-  photo: arimele.jpg
-  info: Ph.D. Student (started in 2017)
-  email: adrien.rimele@polymtl.ca
-  number_educ: 2
-  education1: "Project:  Learning efficient real-time storage policies for e-commerce warehouses."
-  education2: Supervised by Louis-Martin Rousseau
-
-- name: Tom Marty
-  photo: tmarty.jpg
-  info: M.Sc. Student (started in 2021)
-  email: 
+- name: Pierre-Emmanuel Savoie
+  photo: pasavoie.jpg
+  info: M.Sc. Student (started in 2022)
+  email: savoiepe@gmail.com
   number_educ: 2
   education1: "Project: constraint programming guided by reinforcement learning"
-  education2: Supervised by Quentin Cappart and Louis-Martin Rousseau
+  education2: Supervised by Quentin Cappart
+
+- name: Vincent Beiglig
+  photo: vbeiglig.png
+  info: M.Sc. Student (started in 2022)
+  email: vincent.beiglig@polymtl.ca
+  number_educ: 2
+  education1: "Project: machine learning for improving parathletics performances"
+  education2: Supervised by Quentin Cappart
 
 - name: Louis Popovic 
   photo: missing-pic.png
@@ -74,6 +97,14 @@
   education1: "Project: explainable machine learning for budget submissions"
   education2: Supervised by Quentin Cappart
 
+- name: Ghassen Cherni
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2022)
+  email: ghassen.cherni@polytml.ca
+  number_educ: 2
+  education1: "Project: deep learning for human in-bed Pose estimation"
+  education2: Supervised by Quentin Cappart
+
 - name: Gaël Reynal
   photo: greynal.jpg
   info: M.Sc. Student (started in 2020)
@@ -82,28 +113,3 @@
   education1: "Project: machine learning in columns generation"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
-- name: Clément Bernard
-  photo: cbernard.jpg
-  info: M.Ing. Student (2021)
-  email: 
-  number_educ: 0
-
-- name: Pierre Tessier
-  photo: ptessier.jpg
-  info: Research Intern (2021)
-  email: 
-  number_educ: 1
-  education1: "Project: constraint programming guided by reinforcement learning"
-
-- name: Tom Sander
-  photo: tsander.jpg
-  info: Research Intern (2021)
-  email: 
-  number_educ: 1
-  education1: "Project: constraint programming guided by reinforcement learning"
-
-- name: Adam Bensouda
-  photo: abensouda.jpg
-  info: Intern (2021)
-  email: 
-  number_educ: 0
