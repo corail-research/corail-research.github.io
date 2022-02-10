@@ -1,6 +1,5 @@
-
 - title: "On Causal Inference for Data-free Structured Pruning"
-  image: 
+  image: missing-pic.jpg
   description:  "This paper proposes an approach based on causal inference to facilitate structured pruning of neural networks"
   authors: M. Ferianc, A. Sankaran, O. Mastropietro, E. Saboori, Q. Cappart
   link:
@@ -13,7 +12,7 @@
   image: PMB-pic.jpg
   description:  "This paper presents a deep Q-learning approach based on graph
 neural networks to improve cancer treatments performed by the Cyberknife system."
-authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
+  authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6560/ac2bb5/meta
     display:   Physics in Medicine & Biology Journal
@@ -21,7 +20,7 @@ authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
   news2:
 
 - title: "Improving branch-and-bound using decision diagrams and reinforcement learning"
-  image: 
+  image: missing-pic.jpg
   description:  "This paper presents a branch-and-bound algorithm based both on decision diagrams and 
   reinforcement learning"
   authors: A. Parjadis, Q. Cappart, L.-M. Rousseau, D. Bergman
