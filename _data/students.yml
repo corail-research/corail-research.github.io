@@ -73,6 +73,14 @@
   education1: "Project: machine learning for improving parathletics performances"
   education2: Supervised by Quentin Cappart
 
+- name: Tom Marty
+  photo: tmarty.jpg
+  info: M.Sc. Student (started in 2021)
+  email: 
+  number_educ: 2
+  education1: "Project: constraint programming guided by reinforcement learning"
+  education2: Supervised by Quentin Cappart and Louis-Martin Rousseau
+
 - name: Louis Popovic 
   photo: missing-pic.png
   info: M.Sc. Student (started in 2021)
@@ -115,7 +123,7 @@
 
 
 - name: Marco Novaes
-  photo: missing-pic.png
+  photo: mnovaes.jpeg
   info: Research Intern (2022)
   email: 
   number_educ: 1
