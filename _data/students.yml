@@ -9,6 +9,14 @@
 #  education4:
 
 
+- name: Öykü Naz Attila
+  photo: aoyku.jpeg
+  info: Postdoctoral fellow (started in 2022)
+  email: 
+  number_educ: 2
+  education1: "Project: stochastic optimization in multimodal transportation"
+  education2: Supervised by Antoine Legrain and Quentin Cappart
+
 - name: Maryam Abazari
   photo: mabazari.jpg
   info: Ph.D. Student (started in 2022)
@@ -24,6 +32,16 @@
   number_educ: 2
   education1: "Project: machine learning for predicting failures in networking equipments"
   education2: Supervised by Quentin Cappart
+
+
+
+- name: Gaël Reynal
+  photo: greynal.jpg
+  info: Ph.D. Student (started in 2020)
+  email: 
+  number_educ: 2
+  education1: "Project: machine learning in columns generation"
+  education2: Supervised by Louis-Martin Rousseau, Quentin Cappart and Guy Desaulniers
 
 - name: Julien Carayol
   photo: jcarayol.png
@@ -57,6 +75,14 @@
   education1: "Project: Reinforcement learning for solving industrial problems"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
+- name: Juliette Gerbaux
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2022)
+  email: 
+  number_educ: 2
+  education1: "Project: learning inside column generation"
+  education2: Supervised by Guy Desaulniers and Quentin Cappart
+
 - name: Pierre-Emmanuel Savoie
   photo: pasavoie.png
   info: M.Sc. Student (started in 2022)
@@ -86,8 +112,8 @@
   info: M.Sc. Student (started in 2021)
   email: 
   number_educ: 2
-  education1: "Project: hybrid methods for solving scheduling problems"
-  education2: Supervised by Quentin Cappart
+  education1: "Project: learning dual inequalities in column generation"
+  education2: Supervised by Quentin Cappart and Guy Desaulniers
 
 - name: Mina Parham
   photo: mparham.jpg
@@ -112,20 +138,3 @@
   number_educ: 2
   education1: "Project: deep learning for human in-bed Pose estimation"
   education2: Supervised by Lama Seoud and Quentin Cappart
-
-- name: Gaël Reynal
-  photo: greynal.jpg
-  info: M.Sc. Student (started in 2020)
-  email: 
-  number_educ: 2
-  education1: "Project: machine learning in columns generation"
-  education2: Supervised by Louis-Martin Rousseau, Quentin Cappart and Guy Desaulniers
-
-
-- name: Marco Novaes
-  photo: mnovaes.jpeg
-  info: Research Intern (2022)
-  email: 
-  number_educ: 1
-  education1: "Project: constraint programming guided by reinforcement learning"
-

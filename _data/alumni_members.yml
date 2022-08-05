@@ -1,57 +1,36 @@
 
 
 - name: Adrien Rimélé
-  photo: arimele.jpg
-  info: Ph.D. Student (2017-2021)
-  email: adrien.rimele@polymtl.ca
-  number_educ: 2
-  education1: "Project:  Learning efficient real-time storage policies for e-commerce warehouses."
-  education2: Supervised by Louis-Martin Rousseau
-
+  info: (Ph.D. in 2021) - Research scientist at Ivado Labs
 - name: Bilel Omrani
-  photo: bomrani.jpeg
-  info: Master student (2020-2021)
-  number_educ: 3
-  education1: Now research intern at Luxembourg Institute of Socio-Economic Research
-  education2: "Project: learning search heuristics in constraint programming"
-  education3: Supervised by Gilles Pesant and Quentin Cappart
+  info: (M.Sc. in 2021) - Data Scientist chez Illuin Technology
 
-- name: Kim Rioux-Paradis
-  photo: krioux.png
-  info: Research associate (2020-2021)
-  email: kim.rioux-paradis@polymtl.ca
-  number_educ: 0
+- name: Tristan François
+  info: Research Intern (2022)
+
+- name: Louis Gautier
+  info: Research Intern (2022)
+
+- name: Malik Attalah
+  info: Research Intern (2022)
+
+- name: Ziad El Assal
+  info: Research Intern (2022)
 
 - name: Pierre Tessier
-  photo: ptessier.jpg
   info: Research Intern (2021)
-  email: 
-  number_educ: 1
-  education1: "Project: constraint programming guided by reinforcement learning"
 
 - name: Tom Sander
-  photo: tsander.jpg
   info: Research Intern (2021)
-  email: 
-  number_educ: 1
-  education1: "Project: constraint programming guided by reinforcement learning"
 
 - name: Félix Chalumeau
-  photo: fchalumeau.jpg
   info: Research Intern (2020)
-  number_educ: 2
-  education1: Now intern at Imperial College London
-  education2: "Project: constraint programming guided by reinforcement learning"
 
 - name:  Ilan Coulon
-  photo: icoulon.jpg
   info: Research Intern (2020)
-  number_educ: 2
-  education1: Now intern at Amazon
-  education2: "Project: constraint programming guided by reinforcement learning"
+
+- name: Marco Novaes
+  info: Intern (2022)
 
 - name: Adam Bensouda
-  photo: abensouda.jpg
   info: Intern (2021)
-  email: 
-  number_educ: 0

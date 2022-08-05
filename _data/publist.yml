@@ -1,3 +1,88 @@
+- title: "Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams"
+  image: CP2022-Peel.png
+  description:  "Decision diagrams are an increasingly important tool in 
+  cutting-edge solvers for discrete optimization.
+   However, the field of decision diagrams is relatively new, 
+   and is still incorporating the library of techniques that conventional
+    solvers have had decades to build.
+     We drew inspiration from the warm-start 
+     technique used in conventional solvers to address one of the major challenges
+      faced by decision diagram based methods."
+  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2205.05216
+    display: Proceedings of CP 2022 conference **(Best paper award)**
+  highlight: 1
+  news2:
+
+
+
+- title: "Scheduling the Equipment Maintenance of an Electric Power Transmission Network Using Constraint Programming"
+  image: CP2022-HQ.png
+  description:  "Modern electrical power utilities must maintain their electrical equipment 
+  and replace it when the end of its useful life arrives.
+  The Transmission Maintenance Scheduling (TMS) problem consists in 
+   generating an annual maintenance plan for electric power transportation equipment 
+   while maintaining the stability of the network and ensuring a continuous power flow 
+   for customers. Each year, a list of equipment (power lines, capacitors, transistors, etc.)
+    that needs to be maintained or replaced is available and the goal
+     is to generate an optimal maintenance plan.
+      This paper proposes a constraint-based scheduling approach for
+       solving the TMS problem."
+  authors: L. Popovic, A. Côté, M. Gaha, F. Nguewouo, Q. Cappart
+  link:
+    url: https://drops.dagstuhl.de/opus/volltexte/2022/16663/
+    display: Proceedings of CP 2022 conference
+  highlight: 1
+  news2:
+
+
+- title: "Improving Variable Orderings of Approximate Decision Diagrams Using Reinforcement Learning"
+  image: IJOC-2022.png
+  description:  "This paper studies the use of reinforcement learning to compute a 
+  variable ordering of decision diagram-based approximations
+   for discrete optimization problems.
+    This is among the first works to propose the use of
+     machine learning to improve upon generic bounding methods 
+     for discrete optimization problems, 
+     thereby establishing a critical bridge between optimization and learning."
+  authors: Q. Cappart, D. Bergman, L.-M. Rousseau, I. Prémont-Schwarz, A. Parjadis
+  link:
+    url: https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1194
+    display: INFORMS Journal on Computing (2022)
+  highlight: 1
+  news2:
+
+- title: "Learning the travelling salesperson problem requires rethinking generalization"
+  image: CP2021-pic.png
+  description:  "End-to-end training of neural network solvers for 
+  combinatorial problems such as the Travelling Salesman Problem 
+  is intractable and inefficient beyond a few hundreds of nodes. 
+  While state-of-the-art Machine Learning approaches perform closely to classical solvers for trivially small sizes,
+   they are unable to generalize the learnt policy to larger instances.
+   This paper proposes controlled experiments in the first principled investigation into such zero-shot generalization,
+    revealing that extrapolating beyond training data requires rethinking the entire neural combinatorial optimization
+    pipeline. "
+  authors: C. K. Joshi, Q. Cappart, L.-M. Rousseau, T. Laurent
+  link:
+    url: https://link.springer.com/article/10.1007/s10601-022-09327-y
+    display:  Constraints Journal (2022)
+  highlight: 1
+  news2:
+
+- title: "Dynamic Routing and Wavelength Assignment with Reinforcement Learning"
+  image: 
+  description:  ""
+  authors: P. Kafaei, Q. Cappart, N. Chapados, H. Pouya, L.-M. Rousseau
+  link:
+    url: https://hanalog.ca/wp-content/uploads/2022/07/INFORMS_J_Optimization_RWA.pdf
+    display: Working paper (2022)
+  highlight: 0
+  news2:
+
+
+
+
 - title: "On Causal Inference for Data-free Structured Pruning"
   image: missing-pic.jpg
   description:  "This paper proposes an approach based on causal inference to facilitate structured pruning of neural networks"
@@ -8,6 +93,24 @@
   highlight: 0
   news2:
 
+- title: "The Machine Learning for Combinatorial Optimization Competition (ML4CO): Results and Insights"
+  image: NeurIPS2022.png
+  description:  "Combinatorial optimization is a well-established area 
+  in operations research and computer science.
+   Until recently, its methods have focused on solving problem instances in isolation, 
+   ignoring that they often stem from related data distributions in practice.
+    However, recent years have seen a surge of interest in using machine learning 
+    as a new approach for solving combinatorial problems, 
+    either directly as solvers or by enhancing exact solvers. 
+    Based on this context, the ML4CO aims at improving state-of-the-art 
+    combinatorial optimization solvers by replacing key heuristic components."
+  authors: M. Gasse, Q. Cappart, A. Parjadis, et al.
+  link:
+    url: https://proceedings.mlr.press/v176/gasse22a.html
+    display: NeurIPS 2021 Competitions and Demonstrations Track
+  highlight: 1
+  news2:
+
 - title: "Graph neural networks and deep reinforcement learning for simultaneous beam orientation and trajectory optimization of Cyberknife"
   image: PMB-pic.jpg
   description:  "This paper presents a deep Q-learning approach based on graph
@@ -15,7 +118,7 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   authors: P. Kafaei, Q. Cappart, M.-A. Renaud, N. Chapados, L.-M. Rousseau
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6560/ac2bb5/meta
-    display:   Physics in Medicine & Biology Journal
+    display:   Physics in Medicine & Biology Journal (2021)
   highlight: 1
   news2:
 
@@ -83,25 +186,7 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   link:
     url: https://arxiv.org/abs/2101.08828
     display:  ArXived (2021)
-  highlight: 1
-  news2:
-
-
-- title: "Learning TSP Requires Rethinking Generalization"
-  image: CP2021-pic.png
-  description:  "End-to-end training of neural network solvers for 
-  combinatorial problems such as the Travelling Salesman Problem 
-  is intractable and inefficient beyond a few hundreds of nodes. 
-  While state-of-the-art Machine Learning approaches perform closely to classical solvers for trivially small sizes,
-   they are unable to generalize the learnt policy to larger instances.
-   This paper proposes controlled experiments in the first principled investigation into such zero-shot generalization,
-    revealing that extrapolating beyond training data requires rethinking the entire neural combinatorial optimization
-    pipeline. "
-  authors: C. K. Joshi, Q. Cappart, L.-M. Rousseau, T. Laurent, X. Bresson
-  link:
-    url: https://arxiv.org/abs/2006.07054
-    display:  ArXived (2020)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Improving Optimization Bounds using Machine Learning: Decision Diagrams meet Deep Reinforcement Learning"
@@ -117,7 +202,7 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/3956
     display: Proceedings of AAAI 2019 conference
-  highlight: 1
+  highlight: 0
 
 - title: "How to Evaluate Machine Learning Approaches for Combinatorial Optimization: Application to the Travelling Salesman Problem"
   image: howtotsp-pic.png
@@ -137,6 +222,6 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12
     display: Proceedings of CPAIOR 2018 conference
-  highlight: 1
+  highlight: 0
 
 
