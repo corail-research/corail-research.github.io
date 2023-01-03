@@ -33,8 +33,6 @@
   education1: "Project: machine learning for predicting failures in networking equipments"
   education2: Supervised by Quentin Cappart
 
-
-
 - name: Gaël Reynal
   photo: greynal.jpg
   info: Ph.D. Student (started in 2020)
@@ -67,13 +65,45 @@
   education1: "Project: learning in branch-and-bound algorithms"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
-- name: Peyman Kafaei
-  photo: pkafaei.jpg
-  info: Ph.D. Student (started in 2017)
-  email: peyman.kafaei@polymtl.ca
+- name: Louis Gilon
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2023)
+  email: empty
   number_educ: 2
-  education1: "Project: Reinforcement learning for solving industrial problems"
-  education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
+  education1: "Project: reinforcement learning for real-time train scheduling"
+  education2: Supervised by Quentin Cappart
+
+- name: Hugo Barral
+  photo: hbarral.jpg
+  info: M.Sc. Student (started in 2023)
+  email: empty
+  number_educ: 2
+  education1: "Project: constraint acquisition for scheduling problems"
+  education2: Supervised by Quentin Cappart
+
+- name: Thomas Jacquet
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2023)
+  email: empty
+  number_educ: 2
+  education1: "Project: speeding-up column generation with machine learning"
+  education2: Supervised by Quentin Cappart and Guy Desaulniers
+
+- name: Loïc Grumiaux
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2023)
+  email: empty
+  number_educ: 2
+  education1: "Project: predict-and-optimize for maritime workforce"
+  education2: Supervised by Quentin Cappart
+ 
+- name: Léo Boisvert
+  photo: lboisvert.png
+  info: M.Sc. Student (started in 2023)
+  email: empty
+  number_educ: 2
+  education1: "Project: encoding combinatorial problems in a generic way for learning"
+  education2: Supervised by Quentin Cappart 
 
 - name: Juliette Gerbaux
   photo: jgerbaux.JPG
@@ -82,14 +112,6 @@
   number_educ: 2
   education1: "Project: learning inside column generation"
   education2: Supervised by Guy Desaulniers and Quentin Cappart
-
-- name: Pierre-Emmanuel Savoie
-  photo: pasavoie.png
-  info: M.Sc. Student (started in 2022)
-  email: savoiepe@gmail.com
-  number_educ: 2
-  education1: "Project: constraint programming guided by reinforcement learning"
-  education2: Supervised by Quentin Cappart
 
 - name: Vincent Beiglig
   photo: vbeiglig.jpg
@@ -122,19 +144,3 @@
   number_educ: 2
   education1: "Project: explainable reinforcement learning in video game industry"
   education2: Supervised by Quentin Cappart
-
-- name: Rosanne Larocque
-  photo: rlarocque.jpg
-  info: M.Sc. Student (started in 2021)
-  email: 
-  number_educ: 2
-  education1: "Project: explainable machine learning for budget submissions"
-  education2: Supervised by Quentin Cappart
-
-- name: Ghassen Cherni
-  photo: gcherni.png
-  info: M.Sc. Student (started in 2020)
-  email: ghassen.cherni@polytml.ca
-  number_educ: 2
-  education1: "Project: deep learning for human in-bed Pose estimation"
-  education2: Supervised by Lama Seoud and Quentin Cappart
