@@ -1,3 +1,93 @@
+- title: "Combinatorial optimization and reasoning with graph neural networks"
+  image: GNN-pic.png
+  description:  "Combinatorial optimization is a well-established area in operations research and computer science. 
+  Until recently, its methods have focused on solving problem instances in isolation,
+   ignoring the fact that they often stem from related data distributions in practice. 
+   However, recent years have seen a surge of interest in using machine learning, 
+   especially graph neural networks, as a key building block for combinatorial tasks. 
+   This paper presents a conceptual review of recent key advancements in this emerging field, 
+  aiming at researchers in both optimization and machine learning"
+  authors: Q. Cappart, D. Chételat, E. Khalil, A. Lodi, C. Morris, P. Veličković
+  link:
+    url: https://arxiv.org/abs/2102.09544
+    display: Journal of Machine Learning Research (2023, accepted - to appear)
+  highlight: 1
+  news2:
+
+- title: "Dynamic Routing and Wavelength Assignment with Reinforcement Learning"
+  image: IJOO23.png
+  description:  "With the rapid developments in communication systems, and considering their dynamic nature, all-optical
+  networks are becoming increasingly complex. This paper proposes a novel method based on deep reinforcement 
+  learning for the routing and wavelength assignment problem in all-optical wavelength-decision-multiplexing networks. 
+  We employ graph neural networks to capture crucial latent information from the graph-structured input to develop the optimal strategy. 
+  The proposed deep reinforcement learning algorithm selects a route and a wavelength simultaneously for each incoming traffic connection
+  as they arrive."
+  authors: P. Kafaei, Q. Cappart, N. Chapados, H. Pouya, L.-M. Rousseau
+  link: 
+    url: https://hanalog.ca/wp-content/uploads/2022/07/INFORMS_J_Optimization_RWA.pdf
+    display: INFORMS Journal on Optimization (2023, accepted - to appear)
+  highlight: 1
+  news2:
+
+- title: "Explaining the Behavior of Reinforcement Learning Agents using Association Rules"
+  image: LION2023-game.jpg
+  description:  "Deep reinforcement learning algorithms are increasingly used to drive decision-making systems. 
+  However, there exists a known tension between the efficiency of a machine learning algorithm and its level of explainability. 
+  Generally speaking, increased efficiency comes with the cost of decisions that are harder to explain.
+  This paper proposes to explain the behaviour of a deep reinforcement learning algorithm thanks to standard data mining tools, 
+  i.e. association rules. We apply this idea to the design of playing bots, which is ubiquitous in the video game industry."
+  authors: Z. Parham, V.T. de Lille, Q. Cappart
+  link:
+    url: https://lion17.org/
+    display: Proceedings of LION 2023 conference
+  highlight: 1
+  news2:
+
+- title: "Repositioning Fleet Vehicles: a Learning Pipeline"
+  image: LION2023-fleet.png
+  description:  "Managing a fleet of vehicles under uncertainty requires careful planning and adaptability. 
+  We consider a ride-hailing problem where the operator manages vehicle repositioning to maximize responsiveness.
+  This paper introduces a supervised learning pipeline that uses past trip data to reposition vehicles while adapting to fleet activity, 
+  a geographical zone, and seasonal or daily request variation. 
+  This tool has been developed for, and used by, operators of an ambulance company in Belgium. 
+  Using predictors for ambulance repositioning reduces at least 10% of the overall fleet reaction distance."
+  authors: A. Parjadis, Q. Cappart, Q. Massoteau, L.-M. Rousseau,
+  link:
+    url: https://lion17.org/
+    display: Proceedings of LION 2023 conference
+  highlight: 1
+  news2:
+
+- title: "Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver"
+  image: CP2023-tom.jpg
+  description:  "Constraint programming is known for being an efficient approach for solving combinatorial problems. 
+  Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time.
+  Although several generic variable-selection heuristics are available in the literature, 
+  the options for a generic value-selection heuristic are more scarce.
+  This paper introduces a generic learning procedure that can be used to obtain a value-selection heuristic 
+  inside a constraint programming solver. This has been achieved thanks to the combination of a deep Q-learning algorithm, a tailored reward signal, 
+  and a heterogeneous graph neural network architecture."
+  authors: T. Marty, T. François, P. Tessier, L. Gauthier, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://arxiv.org/abs/2301.01913
+    display: ArXived (2023)
+  highlight: 0
+  news2:
+
+- title: "Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams"
+  image: CP2022-Peel.png
+  description:  "Decision diagrams are an increasingly important tool in 
+  cutting-edge solvers for discrete optimization. This paper extends our previously
+  peel-and-bound approaches and close several benchmark instances on the traveling salesman problem with time
+  windows problem"
+  authors: I. Rudich, Q. Cappart, L.-M. Rousseau
+  link:
+    url: https://arxiv.org/abs/2302.05483
+    display: ArXived (2023)
+  highlight: 0
+  news2:
+
+
 - title: "Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams"
   image: CP2022-Peel.png
   description:  "Decision diagrams are an increasingly important tool in 
@@ -70,17 +160,6 @@
   highlight: 1
   news2:
 
-- title: "Dynamic Routing and Wavelength Assignment with Reinforcement Learning"
-  image: 
-  description:  ""
-  authors: P. Kafaei, Q. Cappart, N. Chapados, H. Pouya, L.-M. Rousseau
-  link:
-    url: https://hanalog.ca/wp-content/uploads/2022/07/INFORMS_J_Optimization_RWA.pdf
-    display: Working paper (2022)
-  highlight: 0
-  news2:
-
-
 
 
 - title: "On Causal Inference for Data-free Structured Pruning"
@@ -146,21 +225,7 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   highlight: 1
   news2:
 
-- title: "Combinatorial optimization and reasoning with graph neural networks"
-  image: GNN-pic.png
-  description:  "Combinatorial optimization is a well-established area in operations research and computer science. 
-  Until recently, its methods have focused on solving problem instances in isolation,
-   ignoring the fact that they often stem from related data distributions in practice. 
-   However, recent years have seen a surge of interest in using machine learning, 
-   especially graph neural networks, as a key building block for combinatorial tasks. 
-   This paper presents a conceptual review of recent key advancements in this emerging field, 
-  aiming at researchers in both optimization and machine learning"
-  authors: Q. Cappart, D. Chételat, E. Khalil, A. Lodi, C. Morris, P. Veličković
-  link:
-    url: https://arxiv.org/abs/2102.09544
-    display:  Survey track of IJCAI 2021 conference
-  highlight: 1
-  news2:
+
   
 - title: "Combining reinforcement learning and constraint programming for combinatorial optimization"
   image: AAAI2021-pic.png
@@ -175,19 +240,6 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
   highlight: 1
   news2:
 
-- title: "E-commerce warehousing: learning a storage policy"
-  image: ewarehouse-2021.png
-  description:  "E-commerce with major online retailers is changing the way people consume. 
-  The goal of increasing delivery speed while remaining cost-effective poses significant 
-  new challenges for supply chains as they race to satisfy the growing and fast-changing demand. 
-  In this paper, we consider a warehouse with a Robotic Mobile Fulfillment System, 
-  in which a fleet of robots stores and retrieves shelves of items and brings them to human pickers."
-  authors: A. Rimélé, P. Grangier, M. Gamache, M. Gendreau, L.-M. Rousseau
-  link:
-    url: https://arxiv.org/abs/2101.08828
-    display:  ArXived (2021)
-  highlight: 0
-  news2:
 
 - title: "Improving Optimization Bounds using Machine Learning: Decision Diagrams meet Deep Reinforcement Learning"
   image: AAAI2019-pic.png
@@ -213,15 +265,5 @@ neural networks to improve cancer treatments performed by the Cyberknife system.
     display: ArXived (2019)
   highlight: 0
 
-- title: "Learning heuristics for the TSP by policy gradient"
-  image: CPAIOR2018-pic.png
-  description: "The aim of the paper is to provide interesting insights on how efficient machine learning algorithms 
-  could be adapted to solve combinatorial optimization problems in conjunction with existing heuristic procedures.
-   More specifically, we extend the neural combinatorial optimization framework to solve the traveling salesman problem (TSP)."
-  authors: M. Deudon, P. Cournut, A. Lacoste, Y. Adulyasak, L.-M. Rousseau
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12
-    display: Proceedings of CPAIOR 2018 conference
-  highlight: 0
 
 
