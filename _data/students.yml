@@ -17,6 +17,14 @@
   education1: "Project: stochastic optimization in multimodal transportation"
   education2: Supervised by Antoine Legrain and Quentin Cappart
 
+- name: El-Mehdi Mehiri
+  photo: mmehiri.jpg
+  info: Ph.D. Student (started in 2023)
+  email: 
+  number_educ: 2
+  education1: "Project: stochastic dial-a-ride problems for simultaneous package and passenger delivery"
+  education2: Supervised by Antoine Legrain, François Soumis and Quentin Cappart
+
 - name: Maryam Abazari
   photo: mabazari.jpg
   info: Ph.D. Student (started in 2022)
