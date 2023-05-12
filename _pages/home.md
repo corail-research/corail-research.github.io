@@ -6,6 +6,10 @@ sitemap: false
 permalink: /
 ---
 
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 
 **CORAIL** is a research group focusing on the design of efficient and accessible methods for **solving challenging combinatorial problems**. Specifically, we develop innovative hybrid algorithms that combine techniques from **artificial intelligence**, such as **logical reasoning**, **machine learning**, and **operations research**. To do so, we are using various methods such as constraint programming, backtraking algorithms, reinforcement learning, and deep learning.
 
