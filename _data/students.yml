@@ -17,6 +17,14 @@
   education1: "Project: stochastic optimization in multimodal transportation"
   education2: Supervised by Antoine Legrain and Quentin Cappart
 
+- name: Max Bourgeat
+  photo: mbourgeat.png
+  info: Ph.D. Student (starting in 2024)
+  email: 
+  number_educ: 2
+  education1: "Project: machine learning for combinatorial optimization"
+  education2: Supervised by Quentin Cappart
+
 - name: El-Mehdi Mehiri
   photo: mmehiri.jpg
   info: Ph.D. Student (started in 2023)
@@ -57,20 +65,20 @@
   education1: "Project: relaxation mechanisms in decision diagrams"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
-- name: Augustin Parjadis
-  photo: aparjadis.jpg
-  info: Ph.D. Student (started in 2019)
-  email: augustin.parjadis-de-lariviere@polymtl.ca
+- name: Théau Lepouttre
+  photo: tlepouttre.png
+  info: M.Sc. Student (starting in 2024)
+  email: 
   number_educ: 2
-  education1: "Project: learning in branch-and-bound algorithms"
-  education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
+  education1: "Project: learning user preferences in routing problems"
+  education2: Supervised by Quentin Cappart
 
-- name: Louis Gillon
-  photo: lgillon.png
+- name: Amaury Guichard
+  photo: aguichard.png
   info: M.Sc. Student (started in 2023)
   email: empty
   number_educ: 2
-  education1: "Project: reinforcement learning for real-time train scheduling"
+  education1: "Project: machine learning for genetic algorithms"
   education2: Supervised by Quentin Cappart
 
 - name: Hugo Barral
@@ -105,26 +113,3 @@
   education1: "Project: encoding combinatorial problems in a generic way for learning"
   education2: Supervised by Quentin Cappart 
 
-- name: Vincent Beiglig
-  photo: vbeiglig.jpg
-  info: M.Sc. Student (started in 2022)
-  email: vincent.beiglig@polymtl.ca
-  number_educ: 2
-  education1: "Project: machine learning for improving parathletics performances"
-  education2: Supervised by Quentin Cappart
-
-- name: Tom Marty
-  photo: tmarty.jpg
-  info: M.Sc. Student (started in 2021)
-  email: 
-  number_educ: 2
-  education1: "Project: constraint programming guided by reinforcement learning"
-  education2: Supervised by Quentin Cappart and Louis-Martin Rousseau
-
-- name: Louis Popovic 
-  photo: missing-pic.png
-  info: M.Sc. Student (started in 2021)
-  email: 
-  number_educ: 2
-  education1: "Project: learning dual inequalities in column generation"
-  education2: Supervised by Quentin Cappart and Guy Desaulniers
