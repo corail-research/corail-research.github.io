@@ -19,7 +19,7 @@
 
 - name: Max Bourgeat
   photo: mbourgeat.png
-  info: Ph.D. Student (starting in 2024)
+  info: Ph.D. Student (started in 2024)
   email: 
   number_educ: 2
   education1: "Project: machine learning for combinatorial optimization"
@@ -65,9 +65,25 @@
   education1: "Project: relaxation mechanisms in decision diagrams"
   education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
+- name: Thibault Le Sellier de Chezelles
+  photo: tlesellier.jpg
+  info: M.Sc. Student (started in 2024)
+  email: 
+  number_educ: 2
+  education1: "Project: LLMs for open-ended web tasks"
+  education2: Supervised by Quentin Cappart and Maxime Gasse
+
+- name: Yoann Sabatier Montanaro
+  photo: ysabatier.jpg
+  info: M.Sc. Student (started in 2024)
+  email: 
+  number_educ: 2
+  education1: "Project: learning user preferences in routing problems"
+  education2: Supervised by Quentin Cappart and Guy Desaulniers
+
 - name: Théau Lepouttre
   photo: tlepouttre.png
-  info: M.Sc. Student (starting in 2024)
+  info: M.Sc. Student (started in 2024)
   email: 
   number_educ: 2
   education1: "Project: learning user preferences in routing problems"
