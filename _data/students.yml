@@ -78,7 +78,7 @@
   info: M.Sc. Student (started in 2024)
   email: 
   number_educ: 2
-  education1: "Project: learning user preferences in routing problems"
+  education1: "Project: speeding-up column generation with machine learning"
   education2: Supervised by Quentin Cappart and Guy Desaulniers
 
 - name: Théau Lepouttre
@@ -110,7 +110,7 @@
   info: M.Sc. Student (started in 2023)
   email: empty
   number_educ: 2
-  education1: "Project: speeding-up column generation with machine learning"
+  education1: "Project: speeding-up column generation with metaheuristics"
   education2: Supervised by Quentin Cappart and Guy Desaulniers
 
 - name: Loïc Grumiaux
