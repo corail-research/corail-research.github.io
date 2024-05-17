@@ -1,11 +1,11 @@
 - name: "[Quentin Cappart](https://qcappart.github.io/)"
   photo: qcappart.jpg
-  info: Assistant professor at Polytechnique Montréal (Dept. of Computer and Software Engineering)
+  info: Associate professor at Polytechnique Montréal (Dept. of Computer and Software Engineering)
   email: quentin.cappart@polymtl.ca
   number_educ: 3
-  education1: Group founder
-  education2: Member of CIRRELT
-  education3: B.Sc, M.Sc, Ph.D from UCLouvain (Belgium) 
+  education1: Member of CIRRELT, IVADO, ACP, and IMC2
+  education2: Affiliate Member of MILA
+  education3: IVADO Researcher
 
 - name: "[Louis-Martin Rousseau](https://www.polymtl.ca/expertises/rousseau-louis-martin)"
   photo: lmrousseau.jpg
@@ -13,6 +13,6 @@
   (Dept. of Mathematical and Industrial Engineering)"
   email: louis-martin.rousseau@polymtl.ca
   number_educ: 3
-  education1: Group founder
-  education2: Member of CIRRELT
-  education3: Holder of Hanalog chair
+  education1: Member of CIRRELT
+  education2: Holder of Hanalog chair
+  education3: Member of IVADO 

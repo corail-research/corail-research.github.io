@@ -1,9 +1,3 @@
-
-
-
-
-
-
 - name: Augustin Parjadis
   info: (Ph.D. in 2023) - Data scientist at Ivado Labs
 
@@ -12,6 +6,15 @@
 
 - name: Adrien Rimélé
   info: (Ph.D. in 2021) - Data scientist at Ivado Labs
+
+- name: Loïc Grumiaux
+  info: (M.Sc. in 2024) - Technology analyst at Morgan Stanley
+
+- name: Thomas Jacquet
+  info: (M.Sc. in 2024) - Software engineer at Banque de Luxembourg
+
+- name: Paulo Correia 
+  info: (M.Sc. in 2024) 
 
 - name: Tom Marty
   info: (M.Sc. in 2023) - Ph.D. student at MILA
@@ -22,11 +25,11 @@
 - name: Vincent Beiglig
   info: (M.Sc. in 2023)
 
-- name: Juliette Gerbaux
-  info: (M.Sc. in 2023)
+- name: Juliette Gerbaux 
+  info: (M.Sc. in 2023) - Engineer at RTE - **Best Master thesis in mathematics and industrial engineering department**
 
 - name: Mina Parham
-  info: (M.Sc. in 2023) - AI developer at Keatext
+  info: (M.Sc. in 2023) - AI developer at Chubb
 
 - name: Rosanne Larocque
   info: (M.Sc. in 2022) - Software engineer at Google
@@ -37,6 +40,12 @@
 - name: Bilel Omrani
   info: (M.Sc. in 2021) - Data scientist at Illuin Technology
 
+- name: Swann Bessa
+  info: Research Intern (2024)
+
+- name: Darius Dabert
+  info: Research Intern (2024)
+
 - name: Heiko Hoppe
   info: Research Intern (2023)
 
@@ -44,6 +53,9 @@
   info: Research Intern (2023)
 
 - name: Francesco Morri
+  info: Research Intern (2023)
+
+- name: Axel Navarro
   info: Research Intern (2023)
 
 - name: Tristan François

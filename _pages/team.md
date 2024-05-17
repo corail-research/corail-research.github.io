@@ -6,11 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Group members
 
  **For open positions, please see** [this page]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-## Faculty members
+## Faculty members and group founders
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

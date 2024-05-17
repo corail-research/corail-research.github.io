@@ -41,14 +41,6 @@
   education1: "Project: hybrid artificial intelligence in industrial applications"
   education2: Supervised by Quentin Cappart
 
-- name: Paulo Correia
-  photo: pcorreia.jpg
-  info: Ph.D. Student (started in 2022)
-  email: paulo-victor.queiroz-correia@polymtl.ca
-  number_educ: 2
-  education1: "Project: machine learning for predicting failures in networking equipments"
-  education2: Supervised by Quentin Cappart
-
 - name: Gaël Reynal
   photo: greynal.jpg
   info: Ph.D. Student (started in 2020)
@@ -103,22 +95,6 @@
   email: empty
   number_educ: 2
   education1: "Project: constraint acquisition for scheduling problems"
-  education2: Supervised by Quentin Cappart
-
-- name: Thomas Jacquet
-  photo: tjacquet.jpg
-  info: M.Sc. Student (started in 2023)
-  email: empty
-  number_educ: 2
-  education1: "Project: speeding-up column generation with metaheuristics"
-  education2: Supervised by Quentin Cappart and Guy Desaulniers
-
-- name: Loïc Grumiaux
-  photo: lgrumiaux.jpg
-  info: M.Sc. Student (started in 2023)
-  email: empty
-  number_educ: 2
-  education1: "Project: predict-and-optimize for maritime workforce"
   education2: Supervised by Quentin Cappart
  
 - name: Léo Boisvert

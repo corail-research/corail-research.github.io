@@ -1,13 +1,136 @@
-- title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
+
+
+- title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
+  image: CPAIOR2024-Hugo.png
+  description:  "Modern electrical power utilities must maintain their electrical equipment 
+  and replace it when the end of its useful life arrives.
+   Each year, a list of equipment (power lines, capacitors, transistors, etc.)
+  that needs to be maintained or replaced is available and the goal
+  is to generate an optimal maintenance plan. While most constraints can be naturally formalized in constraint programming (CP), 
+  there are some complex constraints like transit-power limits that are challenging to model because of their continuous and non-linear nature.
+This paper proposes a methodology based on active constraint acquisition to automatically approximate these constraints and to add them into a CP model."
+  authors: H. Barral, M. Gaha, A. Dems, A. Côté, F. Nguewouo, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches"
+  image: CPAIOR2024-Leo.png
+  description:  "In recent years, there has been a growing interest in using learning-based approaches for solving combinatorial problems, 
+  either in an end-to-end manner or in conjunction with traditional optimization algorithms. 
+  In both scenarios, the challenge lies in encoding the targeted combinatorial problems into a structure compatible with the learning algorithm.
+  this paper advocates for progress toward a fully generic representation of combinatorial problems for learning-based approaches.
+   The approach we propose involves constructing a graph by breaking down any constraint of a combinatorial problem into 
+   an abstract syntax tree and expressing relationships (e.g., a variable involved in a constraint) through the edges."
+  authors: L. Boisvert, H. Verhaeghe, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "MARCO: A Memory-Augmented Reinforcement framework for Combinatorial Optimization"
+  image: IJCAI2024.png
+  description:  "Neural Combinatorial Optimization (NCO) is an emerging domain where deep learning techniques are employed 
+  to address combinatorial optimization problems as a standalone solver.
+   Despite their potential, existing NCO methods often suffer from inefficient search space exploration,
+    frequently leading to local optima entrapment or redundant exploration of previously visited states. 
+    This paper introduces a versatile framework that can be used to enhance both constructive and improvement methods in NCO through an innovative memory module."
+  authors: A. Irazusta, J. Ceberio, A. Mendiburu, Q. Cappart
+  link: 
+    url: ""
+    display: Proceedings of IJCAI 2024 conference (to appear)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?"
+  image: work-arena.png
+  description:  "We study the use of large language model-based agents for interacting with software via web browsers. 
+  Unlike prior work, we focus on measuring the agents' ability to perform tasks that span the typical daily work of knowledge workers 
+  utilizing enterprise software systems. 
+  To this end, we propose WorkArena, a remote-hosted benchmark of 29 tasks based on the widely-used ServiceNow platform. 
+  We also introduce BrowserGym, an environment for the design and evaluation of such agents,
+   offering a rich set of actions as well as multimodal observations."
+  authors: A. Drouin, M. Gasse, M. Caccia, I. Laradji, M. Del Verme, T. Marty, L. Boisvert, M. Thakkar, Q. Cappart, D. Vazquez, N. Chapados, A. Lacoste
+  link: 
+    url: https://servicenow.github.io/WorkArena/
+    display:  ICLR 2024 Workshop on Large Language Model (LLM) Agent
+  highlight: 1
+  news2:
+  year: 2024
+
+
+- title: An Improved Neuro-Symbolic Architecture to Fine-Tune Generative AI Systems"
   image: ""
   description:  ""
+  authors: C. Yin, Q. Cappart, G. Pessant
+  link: 
+    url: ""
+    display: Proceedings of CPAIOR 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "A machine-learning-based column generation heuristic for electric bus scheduling"
+  image: CAOR2024.png
+  description:  "Bus scheduling in public transit consists in determining a set of bus schedules
+to cover a set of timetabled trips at minimum cost. Column-generation algorithms have regained popularity for solving
+problems similar to the one considered in this paper, namely, the multi-depot electric vehicle scheduling problem (MDEVSP) with a piecewise linear
+charging function and capacitated charging stations. To tackle large-scale MDEVSP instances, 
+we design a learning-based column generation heuristic that relies on reduced-sized networks to generate the bus schedules"
+  authors: J. Gerbaux, Q. Cappart, G. Desaulniers
+  link: 
+    url: https://www.gerad.ca/fr/papers/3074.pdf
+    display: Les Cahiers du GERAD (2024)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "Deep Learning for Data-Driven Districting-and-Routing"
+  image: ""
+  description:  ""
+  authors: A. Ferraz, Q. Cappart, T. Vidal
+  link: 
+    url: https://arxiv.org/abs/2402.06040
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
+  image: ""
+  description:  ""
+  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
+  link: 
+    url: https://arxiv.org/abs/2312.14836
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
+  image: L4DC2024.png
+  description:  "We study vehicle dispatching in autonomous mobility on demand (AMoD) systems, where a cen-
+tral operator assigns vehicles to customer requests or rejects these with the aim of maximizing its
+total profit. Recent approaches use multi-agent deep reinforcement learning (MADRL) to realize
+scalable yet performant algorithms, but train agents based on local rewards, which distorts the re-
+ward signal with respect to the system-wide profit, leading to lower performance. We therefore
+propose a novel global-rewards-based MADRL algorithm for vehicle dispatching in AMoD sys-
+tems, which resolves so far existing goal conflicts between the trained agents and the operator by
+assigning rewards to agents leveraging a counterfactual baseline"
   authors: H. Hoppe, T. Enders, Q. Cappart, M. Schiffer
   link: 
     url: https://arxiv.org/abs/2312.08884
-    display: Arxived (2023)
-  highlight: 0
+    display: Proceedings of L4DC conference (to appear)
+  highlight: 1
   news2:
-  year: 2023
+  year: 2024
+
 
 - title: "Decision Diagrams in Space!"
   image: ""
