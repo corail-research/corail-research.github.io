@@ -1,4 +1,76 @@
+- title: "Learning Valid Dual Bounds in Constraint Programming: Boosted Lagrangian Decomposition with Self-Supervised Learning"
+  image: ""
+  description:  ""
+  authors: S. Bessa, D. Dabert, M. Bourgeat, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://arxiv.org/abs/2408.12695
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
 
+- title: "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks"
+  image: ""
+  description:  ""
+  authors: L. Boisvert, M. Thakkar, M. Gasse, M. Caccia, T. Le Sellier De Chezelles, Q. Cappart, N. Chapados, A. Lacoste, A. Drouin
+  link: 
+    url: https://arxiv.org/abs/2407.05291
+    display: Arxived (2024)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Precedences for Scheduling Problems with Graph Neural Networks"
+  image: ""
+  description:  ""
+  authors: H. Verhaeghe, Q. Cappart, G. Pesant, C.-G. Quimper
+  link: 
+    url: 
+    display: Proceedings of CP 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
+
+- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
+  image: CP2024.png
+  description:  "Lagrangian relaxation is a versatile mathematical technique employed to relax constraints in an optimization problem, 
+  enabling the generation of dual bounds to prove the optimality of feasible solutions and the design of efficient propagators in constraint programming (such as the weighted circuit constraint).
+However, the conventional process of deriving Lagrangian multipliers (e.g., using subgradient methods) is often computationally intensive, limiting its practicality for large-scale or time-sensitive problems.
+To address this challenge, we propose an innovative unsupervised learning approach that harnesses the capabilities of graph neural networks to exploit the problem structure, aiming to generate accurate Lagrangian multipliers efficiently."
+  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
+  link: 
+    url: https://arxiv.org/abs/2312.14836
+    display: Proceedings of CP 2024 conference **(Best ML paper award)**
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "Estimating Road Construction Costs with Explainable Machine Learning"
+  image: IJAA2024.png
+  description:  "A preliminary estimation of construction costs is a crucial operation of any project related to civil engineering. An accurate estimation ensures a proper management of the available funds and helps the project managers in their decision-making processes. 
+  In order to select a subcontractor, the project manager needs to have an accurate idea of a reasonable price for the subtask given. A price higher
+  than expected is undesirable, but a price significantly lower than expected may also result in poor quality of service. This paper introduces a framework for estimating construction costs while tackling both challenges. It is based on six machine learning models
+  and on Shapley additive explanations. This project was commissioned by the Ministry of
+  Transport and Sustainable Mobility, a public agency responsible for transport infrastruc-
+  ture in Quebec, Canada."
+  authors: R. Larocque, A.-M. Boulé, Q. Cappart
+  link: 
+    url: https://pubsonline.informs.org/doi/10.1287/inte.2023.0027
+    display: INFORMS Journal on Applied Analytics (2024)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "Winning the [2023 CityLearn Challenge](https://neurips.cc/virtual/2023/competition/66590): a Community-based Hierarchical Energy Systems Coordination Algorithm"
+  image: ""
+  description:  ""
+  authors: A. Garmendia, F. Morri, Q. Cappart, H. Le Cadre
+  link: 
+    url: 
+    display: Proceedings of ECAI 2024 conference (to appear)
+  highlight: 0
+  news2:
+  year: 2024
 
 - title: "Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem"
   image: CPAIOR2024-Hugo.png
@@ -11,8 +83,8 @@
 This paper proposes a methodology based on active constraint acquisition to automatically approximate these constraints and to add them into a CP model."
   authors: H. Barral, M. Gaha, A. Dems, A. Côté, F. Nguewouo, Q. Cappart
   link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60597-0_3
+    display: Proceedings of CPAIOR 2024 conference
   highlight: 1
   news2:
   year: 2024
@@ -27,8 +99,8 @@ This paper proposes a methodology based on active constraint acquisition to auto
    an abstract syntax tree and expressing relationships (e.g., a variable involved in a constraint) through the edges."
   authors: L. Boisvert, H. Verhaeghe, Q. Cappart
   link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60597-0_7
+    display: Proceedings of CPAIOR 2024 conference 
   highlight: 1
   news2:
   year: 2024
@@ -40,10 +112,10 @@ This paper proposes a methodology based on active constraint acquisition to auto
    Despite their potential, existing NCO methods often suffer from inefficient search space exploration,
     frequently leading to local optima entrapment or redundant exploration of previously visited states. 
     This paper introduces a versatile framework that can be used to enhance both constructive and improvement methods in NCO through an innovative memory module."
-  authors: A. Irazusta, J. Ceberio, A. Mendiburu, Q. Cappart
+  authors: A. Garmendia, J. Ceberio, A. Mendiburu, Q. Cappart
   link: 
-    url: ""
-    display: Proceedings of IJCAI 2024 conference (to appear)
+    url: https://www.ijcai.org/proceedings/2024/0766
+    display: Proceedings of IJCAI 2024 conference 
   highlight: 1
   news2:
   year: 2024
@@ -70,8 +142,8 @@ This paper proposes a methodology based on active constraint acquisition to auto
   description:  ""
   authors: C. Yin, Q. Cappart, G. Pessant
   link: 
-    url: ""
-    display: Proceedings of CPAIOR 2024 conference (to appear)
+    url: https://link.springer.com/chapter/10.1007/978-3-031-60599-4_19
+    display: Proceedings of CPAIOR 2024 conference
   highlight: 0
   news2:
   year: 2024
@@ -102,16 +174,7 @@ we design a learning-based column generation heuristic that relies on reduced-si
   news2:
   year: 2024
 
-- title: "Learning Lagrangian Multipliers for the Travelling Salesman Problem"
-  image: ""
-  description:  ""
-  authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
-  link: 
-    url: https://arxiv.org/abs/2312.14836
-    display: Arxived (2024)
-  highlight: 0
-  news2:
-  year: 2024
+
 
 - title: "Global Rewards in Multi-Agent Deep Reinforcement Learning for Autonomous Mobility on Demand Systems"
   image: L4DC2024.png

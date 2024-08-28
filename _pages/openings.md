@@ -21,4 +21,4 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 ### Applications for interns
 
-We are not hosting new interns at the moment. Application for the next internships (Spring and Summer 2024) will be open around Fall 2023. 
+We are not hosting new interns at the moment. Application for the next internships (Spring and Summer 2025) will be open around Fall 2024. 

@@ -1,3 +1,9 @@
+- name: Öykü Naz Attila
+  info: (Postdoc in 2024) 
+
+- name: "[Isaac Rudich](https://www.isaacrudich.com/)"
+  info: (Ph.D. in 2024) - Independent consultant in optimization
+
 - name: Augustin Parjadis
   info: (Ph.D. in 2023) - Data scientist at Ivado Labs
 
@@ -7,6 +13,18 @@
 - name: Adrien Rimélé
   info: (Ph.D. in 2021) - Data scientist at Ivado Labs
 
+- name: Maryam Abazari
+  info: (M.Sc. in 2024) 
+
+- name: Amaury Guichard
+  info: (M.Sc. in 2024) - Ph.D. student at UCLouvain
+
+- name: Hugo Barral
+  info: (M.Sc. in 2024) - Ph.D. student at Polytechnique Montréal and INSA Toulouse
+
+- name: Léo Boisvert
+  info: (M.Sc. in 2024) - Ph.D. student at Polytechnique Montréal
+
 - name: Loïc Grumiaux
   info: (M.Sc. in 2024) - Technology analyst at Morgan Stanley
 
@@ -14,9 +32,9 @@
   info: (M.Sc. in 2024) - Software engineer at Banque de Luxembourg
 
 - name: Paulo Correia 
-  info: (M.Sc. in 2024) 
+  info: (M.Sc. in 2024) - Invited researcher at Federal University of Rio Grande do Norte
 
-- name: Tom Marty
+- name: "[Tom Marty](https://3rdcore.github.io/)"
   info: (M.Sc. in 2023) - Ph.D. student at MILA
 
 - name: Louis Popovic 
@@ -53,7 +71,7 @@
   info: Research Intern (2023)
 
 - name: Francesco Morri
-  info: Research Intern (2023)
+  info: Research Intern (2024, 2023)
 
 - name: Axel Navarro
   info: Research Intern (2023)

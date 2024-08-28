@@ -9,13 +9,30 @@
 #  education4:
 
 
-- name: Öykü Naz Attila
-  photo: aoyku.jpeg
-  info: Postdoctoral fellow (started in 2022)
-  email: 
+
+- name: Amaury Guichard
+  photo: aguichard.png
+  info: Ph.D. Student (started in 2024)
+  email: empty
   number_educ: 2
-  education1: "Project: stochastic optimization in multimodal transportation"
-  education2: Supervised by Antoine Legrain and Quentin Cappart
+  education1: "Project: combinatorial optimization with decision diagrams"
+  education2: Supervised by Quentin Cappart
+
+- name: Hugo Barral
+  photo: hbarral.jpg
+  info: Ph.D. Student (started in 2024)
+  email: empty
+  number_educ: 2
+  education1: "Project: learning in constraint programming"
+  education2: Supervised by Quentin Cappart
+ 
+- name: Léo Boisvert
+  photo: lboisvert.png
+  info: Ph.D. Student (started in 2024)
+  email: empty
+  number_educ: 2
+  education1: "Project: Reasoning with Large Language Models"
+  education2: Supervised by Quentin Cappart and Maxime Gasse
 
 - name: Max Bourgeat
   photo: mbourgeat.png
@@ -25,22 +42,6 @@
   education1: "Project: machine learning for combinatorial optimization"
   education2: Supervised by Quentin Cappart
 
-- name: El-Mehdi Mehiri
-  photo: mmehiri.jpg
-  info: Ph.D. Student (started in 2023)
-  email: 
-  number_educ: 2
-  education1: "Project: stochastic dial-a-ride problems for simultaneous package and passenger delivery"
-  education2: Supervised by Antoine Legrain, François Soumis and Quentin Cappart
-
-- name: Maryam Abazari
-  photo: mabazari.jpg
-  info: Ph.D. Student (started in 2022)
-  email: maryam.abazari@polymtl.ca
-  number_educ: 2
-  education1: "Project: hybrid artificial intelligence in industrial applications"
-  education2: Supervised by Quentin Cappart
-
 - name: Gaël Reynal
   photo: greynal.jpg
   info: Ph.D. Student (started in 2020)
@@ -48,14 +49,6 @@
   number_educ: 2
   education1: "Project: machine learning in columns generation"
   education2: Supervised by Louis-Martin Rousseau, Quentin Cappart and Guy Desaulniers
-
-- name: Isaac Rudich
-  photo: irudich.jpg
-  info: Ph.D. Student (started in 2019)
-  email: isaac.rudich@polymtl.ca
-  number_educ: 2
-  education1: "Project: relaxation mechanisms in decision diagrams"
-  education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
 
 - name: Thibault Le Sellier de Chezelles
   photo: tlesellier.jpg
@@ -81,27 +74,4 @@
   education1: "Project: learning user preferences in routing problems"
   education2: Supervised by Quentin Cappart
 
-- name: Amaury Guichard
-  photo: aguichard.png
-  info: M.Sc. Student (started in 2023)
-  email: empty
-  number_educ: 2
-  education1: "Project: machine learning for genetic algorithms"
-  education2: Supervised by Quentin Cappart
-
-- name: Hugo Barral
-  photo: hbarral.jpg
-  info: M.Sc. Student (started in 2023)
-  email: empty
-  number_educ: 2
-  education1: "Project: constraint acquisition for scheduling problems"
-  education2: Supervised by Quentin Cappart
- 
-- name: Léo Boisvert
-  photo: lboisvert.png
-  info: M.Sc. Student (started in 2023)
-  email: empty
-  number_educ: 2
-  education1: "Project: encoding combinatorial problems in a generic way for learning"
-  education2: Supervised by Quentin Cappart 
 
