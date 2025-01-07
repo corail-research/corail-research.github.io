@@ -1,22 +1,87 @@
+#2025 -----------------------------------
+
 - title: "Learning Valid Dual Bounds in Constraint Programming: Boosted Lagrangian Decomposition with Self-Supervised Learning"
-  image: ""
-  description:  ""
+  image: AAAI2025.png
+  description: "Lagrangian decomposition (LD) is a relaxation method that provides a dual bound for constrained optimization problems
+   by decomposing them into more manageable sub-problems. 
+   This bound can be used in branch-and-bound algorithms to prune the search space effectively. 
+   In brief, a vector of Lagrangian multipliers is associated with each sub-problem, and an iterative procedure 
+   (e.g., a sub-gradient optimization) adjusts these multipliers to find the tightest bound. 
+   Initially applied to integer programming, Lagrangian decomposition also had success in constraint programming 
+   due to its versatility and the fact that global constraints provide natural sub-problems. 
+   However, the non-linear and combinatorial nature of sub-problems in constraint programming makes it computationally
+   intensive to optimize the Lagrangian multipliers with sub-gradient methods at each node of the tree search.
+    To address this challenge, we propose a self-supervised learning approach that leverages neural networks to
+    generate multipliers directly, yielding tight bounds."
   authors: S. Bessa, D. Dabert, M. Bourgeat, L.-M. Rousseau, Q. Cappart
   link: 
     url: https://arxiv.org/abs/2408.12695
-    display: Arxived (2024)
+    display: Proceedings of AAAI 2025 conference (to appear)
+  highlight: 1
+  news2:
+  year: 2025
+
+- title: "A machine-learning-based column generation heuristic for electric bus scheduling"
+  image: CAOR2025.jpg
+  description:  "Bus scheduling in public transit consists in determining a set of bus schedules to cover a set of timetabled trips at minimum cost.
+   This planning process has evolved recently with the advent of electric buses that introduce constraints related to vehicle autonomy and 
+   battery charging process. In particular, column-generation algorithms have regained popularity for solving problems similar to the one 
+   considered in this paper, namely, the multi-depot electric vehicle scheduling problem (MDEVSP)
+    with a piecewise linear charging function and capacitated charging stations. To tackle large-scale MDEVSP instances,
+    we design a machine-learning-based column generation heuristic that relies on reduced-sized networks to generate the bus schedules."
+  authors: J. Gerbaux, Q. Cappart, G. Desaulniers
+  link: 
+    url: https://www.sciencedirect.com/science/article/pii/S0305054824003204
+    display: Computers & Operations Research (2025)
+  highlight: 1
+  news2:
+  year: 2025
+
+#2024 -----------------------------------
+
+- title: "Learning and Fine-tuning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver"
+  image: CP2023-tom.png
+  description:  "Constraint programming is known for being an efficient approach for solving combinatorial problems. 
+  Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time.
+  Although several generic variable-selection heuristics are available in the literature, 
+  the options for a generic value-selection heuristic are more scarce.
+  This paper introduces a generic learning procedure that can be used to obtain a value-selection heuristic 
+  inside a constraint programming solver. This has been achieved thanks to the combination of a deep Q-learning algorithm, a tailored reward signal, 
+  and a heterogeneous graph neural network architecture."
+  authors: T. Marty, L. Boisvert T. François, P. Tessier, L. Gauthier, L.-M. Rousseau, Q. Cappart
+  link: 
+    url: https://link.springer.com/article/10.1007/s10601-024-09377-4
+    display: Constraints (2024)
+  highlight: 1
+  news2:
+  year: 2024
+
+- title: "The BrowserGym Ecosystem for Web Agent Research"
+  image: ""
+  description:  ""
+  authors: T. Le Sellier De Chezelles, M. Gasse, A. Drouin, M. Caccia, L. Boisvert, M. Thakkar, T. Marty, R. Assouel, S. Shayegan, L. Jang, X. Lù, O. Yoran, De. Kong, F. Xu, S. Reddy, Q. Cappart, G. Neubig, R. Salakhutdinov, N. Chapados, A. Lacoste
+  link: 
+    url: https://arxiv.org/abs/2412.05467
+    display: ArXived (2024)
   highlight: 0
   news2:
   year: 2024
 
-- title: "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks"
-  image: ""
-  description:  ""
+- title: <a href="https://github.com/ServiceNow/WorkArena"> WorkArena++</a> - Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+  image: NeurIPS2025.png
+  description: "The ability of large language models (LLMs) to mimic human-like 
+  intelligence has led to a surge in LLM-based autonomous agents. 
+  Though recent LLMs seem capable of planning and reasoning given user instructions, their effectiveness
+   in applying these capabilities for autonomous task solving remains underexplored.
+  This is especially true in enterprise settings, where automated agents hold the promise of a high impact.
+   To fill this gap, we propose WorkArena++, a novel benchmark consisting of 682 tasks corresponding to realistic workflows routinely
+    performed by knowledge workers. WorkArena++ is designed to evaluate the planning, problem-solving, logical/arithmetic reasoning, 
+    retrieval, and contextual understanding abilities of web agents."
   authors: L. Boisvert, M. Thakkar, M. Gasse, M. Caccia, T. Le Sellier De Chezelles, Q. Cappart, N. Chapados, A. Lacoste, A. Drouin
   link: 
     url: https://arxiv.org/abs/2407.05291
-    display: Arxived (2024)
-  highlight: 0
+    display: Proceedings of NeurIPS 2024 Datasets and Benchmark (to appear)
+  highlight: 1
   news2:
   year: 2024
 
@@ -25,8 +90,8 @@
   description:  ""
   authors: H. Verhaeghe, Q. Cappart, G. Pesant, C.-G. Quimper
   link: 
-    url: 
-    display: Proceedings of CP 2024 conference (to appear)
+    url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.30
+    display: Proceedings of CP 2024 conference 
   highlight: 0
   news2:
   year: 2024
@@ -39,7 +104,7 @@ However, the conventional process of deriving Lagrangian multipliers (e.g., usin
 To address this challenge, we propose an innovative unsupervised learning approach that harnesses the capabilities of graph neural networks to exploit the problem structure, aiming to generate accurate Lagrangian multipliers efficiently."
   authors: A. Parjadis, Q. Cappart, B. Dilkina, A. Ferber, L.-M. Rousseau
   link: 
-    url: https://arxiv.org/abs/2312.14836
+    url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.22
     display: Proceedings of CP 2024 conference **(Best ML paper award)**
   highlight: 1
   news2:
@@ -51,8 +116,7 @@ To address this challenge, we propose an innovative unsupervised learning approa
   In order to select a subcontractor, the project manager needs to have an accurate idea of a reasonable price for the subtask given. A price higher
   than expected is undesirable, but a price significantly lower than expected may also result in poor quality of service. This paper introduces a framework for estimating construction costs while tackling both challenges. It is based on six machine learning models
   and on Shapley additive explanations. This project was commissioned by the Ministry of
-  Transport and Sustainable Mobility, a public agency responsible for transport infrastruc-
-  ture in Quebec, Canada."
+  Transport and Sustainable Mobility, a public agency responsible for transport infrastructure in Quebec, Canada."
   authors: R. Larocque, A.-M. Boulé, Q. Cappart
   link: 
     url: https://pubsonline.informs.org/doi/10.1287/inte.2023.0027
@@ -61,14 +125,19 @@ To address this challenge, we propose an innovative unsupervised learning approa
   news2:
   year: 2024
 
-- title: "Winning the [2023 CityLearn Challenge](https://neurips.cc/virtual/2023/competition/66590): a Community-based Hierarchical Energy Systems Coordination Algorithm"
-  image: ""
-  description:  ""
+- title: <a href="https://neurips.cc/virtual/2023/competition/66590"> Winning the 2023 CityLearn Challenge</a> - a Community-based Hierarchical Energy Systems Coordination Algorithm
+  image: ECAI2024.png
+  description:  "The effective management and control of building energy systems are crucial for reducing the energy consumption peak loads,
+  CO2 emissions, and ensuring the stability of the power grid, while maintaining optimal comfort levels within buildings. 
+  The difficulty to accommodate this trade-off is amplified by dynamic environmental conditions and the need for scalable solutions that
+   can adapt across various building types and geographic locations.
+ Acknowledging the importance of this problem, NeurIPS conference hosted since 2020 the CityLearn control challenge to foster the design of innovative solutions in building energy management.   
+  This paper introduces the Community-based Hierarchical Energy Systems Coordination Algorithm (CHESCA), the winning approach of the 2023 edition."
   authors: A. Garmendia, F. Morri, Q. Cappart, H. Le Cadre
   link: 
-    url: 
-    display: Proceedings of ECAI 2024 conference (to appear)
-  highlight: 0
+    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240757
+    display: Proceedings of ECAI 2024 conference 
+  highlight: 1
   news2:
   year: 2024
 
@@ -258,7 +327,7 @@ assigning rewards to agents leveraging a counterfactual baseline"
   link: 
     url: https://arxiv.org/abs/2301.01913
     display: Proceedings of CP 2023 conference **(Distinguished paper)**
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Dynamic Routing and Wavelength Assignment with Reinforcement Learning"

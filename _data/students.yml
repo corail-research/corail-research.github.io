@@ -10,13 +10,7 @@
 
 
 
-- name: Amaury Guichard
-  photo: aguichard.png
-  info: Ph.D. Student (started in 2024)
-  email: empty
-  number_educ: 2
-  education1: "Project: combinatorial optimization with decision diagrams"
-  education2: Supervised by Quentin Cappart
+
 
 - name: Hugo Barral
   photo: hbarral.jpg
@@ -24,15 +18,15 @@
   email: empty
   number_educ: 2
   education1: "Project: learning in constraint programming"
-  education2: Supervised by Quentin Cappart
+  education2: Supervised by Quentin Cappart, Marie-José Huguet and Sylvie Thiebaux
  
-- name: Léo Boisvert
+- name: "[Léo Boisvert](https://leo-boisvert.com/)"
   photo: lboisvert.png
   info: Ph.D. Student (started in 2024)
   email: empty
   number_educ: 2
   education1: "Project: Reasoning with Large Language Models"
-  education2: Supervised by Quentin Cappart and Maxime Gasse
+  education2: Supervised by Quentin Cappart and Alexandre Drouin
 
 - name: Max Bourgeat
   photo: mbourgeat.png
@@ -40,7 +34,7 @@
   email: 
   number_educ: 2
   education1: "Project: machine learning for combinatorial optimization"
-  education2: Supervised by Quentin Cappart
+  education2: Supervised by Quentin Cappart and Antoine Legrain
 
 - name: Gaël Reynal
   photo: greynal.jpg
@@ -49,6 +43,38 @@
   number_educ: 2
   education1: "Project: machine learning in columns generation"
   education2: Supervised by Louis-Martin Rousseau, Quentin Cappart and Guy Desaulniers
+
+- name: Bérénice Dubois
+  photo: bdubois.jpg
+  info: M.Sc. Student (started in 2025)
+  email: empty
+  number_educ: 2
+  education1: "Project: constraint programming for timetabling in secondary schools"
+  education2: Supervised by Quentin Cappart
+
+- name: Emile Jehaes
+  photo: ejehaes.jpg
+  info: M.Sc. Student (started in 2025)
+  email: empty
+  number_educ: 2
+  education1: "Project: learning cost-based filtering for constraint programming"
+  education2: Supervised by Quentin Cappart
+
+- name: Guillaume Hermoso
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2025)
+  email: empty
+  number_educ: 2
+  education1: "Project: learning Lagrangian decomposition"
+  education2: Supervised by Louis-Martin Rousseau and Quentin Cappart
+
+- name: Robin Gay
+  photo: missing-pic.png
+  info: M.Sc. Student (started in 2025)
+  email: empty
+  number_educ: 2
+  education1: "Project: Quantum computing for combinatorial optimization"
+  education2: Supervised by Tarek Ould-Bachir and Quentin Cappart
 
 - name: Thibault Le Sellier de Chezelles
   photo: tlesellier.jpg

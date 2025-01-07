@@ -3,9 +3,9 @@
   info: Associate professor at Polytechnique Montréal (Dept. of Computer and Software Engineering)
   email: quentin.cappart@polymtl.ca
   number_educ: 3
-  education1: Member of CIRRELT, ACP, and IMC2
-  education2: Affiliate Member of MILA
-  education3: IVADO Researcher
+  education1: Member of <a href="https://www.cirrelt.ca/">CIRRELT</a>, <a href="https://www.a4cp.org/">ACP</a>, and <a href="https://i-mc2.ca/">IMC2</a>
+  education2: Affiliate Member of <a href="https://mila.quebec/fr">MILA</a>
+  education3: <a href="https://ivado.ca/communaute_de_recherche/">IVADO</a> Researcher
 
 - name: "[Louis-Martin Rousseau](https://www.polymtl.ca/expertises/rousseau-louis-martin)"
   photo: lmrousseau.jpg
